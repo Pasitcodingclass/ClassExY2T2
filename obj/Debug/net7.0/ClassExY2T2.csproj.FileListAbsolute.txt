@@ -1,0 +1,15 @@
+C:\BRUH025\CODE\ClassExY2T2\bin\Debug\net7.0\ClassExY2T2.exe
+C:\BRUH025\CODE\ClassExY2T2\bin\Debug\net7.0\ClassExY2T2.deps.json
+C:\BRUH025\CODE\ClassExY2T2\bin\Debug\net7.0\ClassExY2T2.runtimeconfig.json
+C:\BRUH025\CODE\ClassExY2T2\bin\Debug\net7.0\ClassExY2T2.dll
+C:\BRUH025\CODE\ClassExY2T2\bin\Debug\net7.0\ClassExY2T2.pdb
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.csproj.AssemblyReference.cache
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.AssemblyInfoInputs.cache
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.AssemblyInfo.cs
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.csproj.CoreCompileInputs.cache
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.dll
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\refint\ClassExY2T2.dll
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.pdb
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ClassExY2T2.genruntimeconfig.cache
+C:\BRUH025\CODE\ClassExY2T2\obj\Debug\net7.0\ref\ClassExY2T2.dll
